@@ -1,0 +1,34 @@
+.text-red {
+  color: rgb(183,17,61);
+}
+
+.text-red {
+  color: rgb(183,17,61);
+}
+
+.bg-gradient-primary-2 {
+  background-color: #7a9a61;
+  /*background-image: linear-gradient(180deg,#4e73df 10%,#224abe);*/
+  background-size: cover;
+}
+
+.bg-gradient-primary-1 {
+  background-color: #98d27d;
+  background-image: linear-gradient(180deg,#4e73df 10%,#224abe);
+  background-size: cover;
+}
+
+.btn-green {
+  color: #fff;
+  background-color: #255f1c;
+  border-color: #080d19;
+}
+
+.dropdown .dropdown-list .dropdown-header {
+  background-color: #4b7a3a;
+  border: 1px solid #4e73df;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  color: #fff;
+}
+
